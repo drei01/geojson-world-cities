@@ -7,7 +7,7 @@ Free to use for any project.
 
 ## About the dataset
 
-* The data is sourced from http://www.vdstech.com/world-data.aspx and converted with http://ogre.adc4gis.com/.
+* The data is sourced from [http://www.vdstech.com/world-data.aspx](http://web.archive.org/web/20180423190124/http://www.vdstech.com/world-data.aspx) and converted with http://ogre.adc4gis.com/.
 * There are 37,372 cities with defined Polygon boundaries with the precision of 5 decimal points (about 1 meter),
 although accuracy of the data (how well the polygons define the real-world city boundaries) varies greately.
 * Each polygon is only identifiable by city `NAME`, from no particular standard.
